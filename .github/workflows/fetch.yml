@@ -1,0 +1,77 @@
+name: Fetch new Firefox add-ons (reusable)
+
+on:
+  workflow_call:
+    inputs:
+      runner:
+        description: "Runner label to execute the job on"
+        required: false
+        type: string
+      since:
+        description: "UTC timestamp to start from (ISO 8601)"
+        required: false
+        type: string
+      until:
+        description: "UTC timestamp to stop at (ISO 8601)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ${{ inputs.runner || 'self-hosted' }}
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+
+      - name: Fetch new Firefox add-ons
+        env:
+          INPUT_SINCE: ${{ inputs.since }}
+          INPUT_UNTIL: ${{ inputs.until }}
+        run: |
+          source scripts/retry.sh
+          args=()
+          if [ -n "$INPUT_SINCE" ]; then
+            args+=(--since "$INPUT_SINCE")
+          fi
+          if [ -n "$INPUT_UNTIL" ]; then
+            args+=(--until "$INPUT_UNTIL")
+          fi
+          retry python3 scripts/fetch_new_firefox_addons.py \
+            --user-agent "new-firefox-addons/1.0 (+https://github.com/${{ github.repository }})" \
+            "${args[@]}"
+
+      - name: Render README
+        run: python3 scripts/render_readme.py
+
+      - name: Commit and push
+        run: |
+          source scripts/retry.sh
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --sparse README.md latest.json
+          if [ -d data ] && [ -n "$(ls -A data)" ]; then
+            git add --sparse data
+          fi
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          data_file=$(git diff --cached --name-only | grep '^data/new-firefox-addons-.*\.csv$' | head -n 1)
+          if [ -n "$data_file" ]; then
+            stamp=${data_file##*/new-firefox-addons-}
+            message="Add new Firefox add-ons up to ${stamp%.csv}"
+          elif git diff --cached --name-only | grep -q '^latest.json$'; then
+            message="Advance window"
+          else
+            message="Refresh README"
+          fi
+          git commit -m "$message"
+          retry git push

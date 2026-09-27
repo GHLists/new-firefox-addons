@@ -1,0 +1,41 @@
+name: Hourly new Firefox add-ons
+
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "UTC timestamp to start from (ISO 8601). Defaults to the end of the last list."
+        required: false
+        type: string
+      until:
+        description: "UTC timestamp to stop at (ISO 8601). Defaults to now."
+        required: false
+        type: string
+      runner:
+        description: "Runner label to run on. Defaults to the primary runner."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-new-firefox-addons
+  cancel-in-progress: false
+
+jobs:
+  primary:
+    uses: ./.github/workflows/fetch.yml
+    with:
+      runner: ${{ inputs.runner || vars.RUNNER_PRIMARY || 'self-hosted' }}
+      since: ${{ inputs.since }}
+      until: ${{ inputs.until }}
+
+  backup:
+    needs: primary
+    if: ${{ failure() || cancelled() }}
+    uses: ./.github/workflows/fetch.yml
+    with:
+      runner: ${{ vars.RUNNER_BACKUP || 'self-hosted' }}
+      since: ${{ inputs.since }}
+      until: ${{ inputs.until }}
