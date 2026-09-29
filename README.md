@@ -9,19 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 20:19 UTC
+## Latest list — 2026-09-29 21:22 UTC
 
-New add-ons created between 2026-09-29 19:22 UTC and 2026-09-29 20:19 UTC.
+New add-ons created between 2026-09-29 20:19 UTC and 2026-09-29 21:22 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-09-29T20-19-06-312743Z.csv)
+[Full CSV](data/new-firefox-addons-2026-09-29T21-22-30-284117Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-09-29 19:24:21 | [Dove Chocolate](https://addons.mozilla.org/firefox/addon/dove-chocolate) | 1.0 | 0 | 白饮之 | Dove Chocolate |
-| 2026-09-29 19:33:19 | [black Silky](https://addons.mozilla.org/firefox/addon/black-silky) | 1.0 | 0 | 白饮之 | black Silky |
-| 2026-09-29 19:54:47 | [AMOLED (readable menus)](https://addons.mozilla.org/firefox/addon/amoled-readable-menus) | 1.0 | 0 | jonnotjohn | Based on the AMOLED theme, with bright white menu text instead of grey, so menu… |
-| 2026-09-29 20:01:34 | [deepblackblack](https://addons.mozilla.org/firefox/addon/deepblackblack) | 1.0 | 0 | 白饮之 | 如题 |
-| 2026-09-29 20:08:31 | [skulls skulls skulls](https://addons.mozilla.org/firefox/addon/skulls-skulls-skulls) | 1.0 | 0 | cunoesse | it's a cute little colorful skull theme |
+| 2026-09-29 20:21:16 | [DJDarkBlue05](https://addons.mozilla.org/firefox/addon/djdarkblue05) | 1.0 | 0 | BlueWave | Designed for Vertical Tabs. |
 
 ## Data source
 
