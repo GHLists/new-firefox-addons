@@ -9,16 +9,19 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 01:21 UTC
+## Latest list — 2026-09-29 20:19 UTC
 
-New add-ons created between 2026-09-28 00:20 UTC and 2026-09-28 01:21 UTC.
+New add-ons created between 2026-09-29 19:22 UTC and 2026-09-29 20:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-09-28T01-21-10-884782Z.csv)
+[Full CSV](data/new-firefox-addons-2026-09-29T20-19-06-312743Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-09-28 00:40:13 | [2000s blue abstract](https://addons.mozilla.org/firefox/addon/2000s-blue-abstract) | 1.0 | 0 | machine | theme that matches my wallpaper |
-| 2026-09-28 00:47:04 | [Autumn Birch by M♥Donna](https://addons.mozilla.org/firefox/addon/autbirch-by-m-donna) | 1.0 | 0 | MaDonna | Birch leaves fallen to the ground and their beautiful gray and white trunks to… |
+| 2026-09-29 19:24:21 | [Dove Chocolate](https://addons.mozilla.org/firefox/addon/dove-chocolate) | 1.0 | 0 | 白饮之 | Dove Chocolate |
+| 2026-09-29 19:33:19 | [black Silky](https://addons.mozilla.org/firefox/addon/black-silky) | 1.0 | 0 | 白饮之 | black Silky |
+| 2026-09-29 19:54:47 | [AMOLED (readable menus)](https://addons.mozilla.org/firefox/addon/amoled-readable-menus) | 1.0 | 0 | jonnotjohn | Based on the AMOLED theme, with bright white menu text instead of grey, so menu… |
+| 2026-09-29 20:01:34 | [deepblackblack](https://addons.mozilla.org/firefox/addon/deepblackblack) | 1.0 | 0 | 白饮之 | 如题 |
+| 2026-09-29 20:08:31 | [skulls skulls skulls](https://addons.mozilla.org/firefox/addon/skulls-skulls-skulls) | 1.0 | 0 | cunoesse | it's a cute little colorful skull theme |
 
 ## Data source
 
