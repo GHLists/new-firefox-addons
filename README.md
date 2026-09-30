@@ -9,20 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 06:18 UTC
+## Latest list — 2026-09-30 20:18 UTC
 
-New add-ons created between 2026-09-30 05:22 UTC and 2026-09-30 06:18 UTC.
+New add-ons created between 2026-09-30 19:20 UTC and 2026-09-30 20:18 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-09-30T06-18-47-935428Z.csv)
+[Full CSV](data/new-firefox-addons-2026-09-30T20-18-47-553264Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-09-30 05:40:28 | [barbiebarbie](https://addons.mozilla.org/firefox/addon/barbiebarbie) | 1.0 | 0 | 白饮之 | barbie |
-| 2026-09-30 05:41:28 | [brownbrown](https://addons.mozilla.org/firefox/addon/brownbrown) | 1.0 | 0 | 白饮之 | brownbrown |
-| 2026-09-30 05:42:27 | [graygray](https://addons.mozilla.org/firefox/addon/graygray) | 1.0 | 0 | 白饮之 | graygray |
-| 2026-09-30 05:43:03 | [greengreenclassic](https://addons.mozilla.org/firefox/addon/greengreenclassic) | 1.0 | 0 | 白饮之 | greengreen |
-| 2026-09-30 05:43:58 | [blueblueclassic](https://addons.mozilla.org/firefox/addon/blueblueclassic) | 1.0 | 0 | 白饮之 | blueblue |
-| 2026-09-30 05:45:03 | [redredclassic](https://addons.mozilla.org/firefox/addon/redredclassic) | 1.0 | 0 | 白饮之 | redred |
+| 2026-09-30 19:24:37 | [Casltevania NES](https://addons.mozilla.org/firefox/addon/casltevania-nes) | 1.0 | 0 | pmums | Basic Theme for large monitors |
 
 ## Data source
 
