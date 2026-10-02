@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 03:21 UTC
+## Latest list — 2026-10-02 12:21 UTC
 
-New add-ons created between 2026-10-02 02:19 UTC and 2026-10-02 03:21 UTC.
+New add-ons created between 2026-10-02 11:21 UTC and 2026-10-02 12:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-02T03-21-12-335449Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-02T12-21-49-344486Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-02 02:23:21 | [Skeuomorphic Carbon](https://addons.mozilla.org/firefox/addon/skeuomorphic-carbon) | 2.0 | 0 | user | Solid, minimalist theme in skeuomorphic design. |
-| 2026-10-02 02:33:45 | [starry pink & blue](https://addons.mozilla.org/firefox/addon/starry-pink-blue) | 1.0 | 0 | aqua | A pink and blue theme with stars of alternating color and a gradient for vertic… |
+| 2026-10-02 11:31:32 | [tomodachi freb jump](https://addons.mozilla.org/firefox/addon/tomodachifrebjump) | 1.0 | 0 | freddie !! ☆ | my likeness in tomodachi life form; very joyous. |
 
 ## Data source
 
