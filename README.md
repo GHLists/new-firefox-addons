@@ -9,15 +9,17 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:20 UTC
+## Latest list — 2026-10-03 21:20 UTC
 
-New add-ons created between 2026-10-03 04:19 UTC and 2026-10-03 05:20 UTC.
+New add-ons created between 2026-10-03 20:19 UTC and 2026-10-03 21:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-03T05-20-57-64255Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-03T21-20-23-771794Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-03 04:55:22 | [THE Perfect Blue](https://addons.mozilla.org/firefox/addon/the-perfect-blue) | 1.0 | 0 | Gemron | There isn't a better blue theme on all of firefox. (warning: it really is that… |
+| 2026-10-03 20:32:17 | [Sepia | Ellipsus](https://addons.mozilla.org/firefox/addon/sepia-ellipsus) | 1.0 | 0 | moon | A cozy palette of beiges and browns reminiscent of parchment. |
+| 2026-10-03 20:34:43 | [GNOME Clearlooks 2006](https://addons.mozilla.org/firefox/addon/gnome-clearlooks-2006) | 1.0.0 | 0 | John | Soft window grey, glossy sky-blue title bars and Tango colours from the GNOME 2… |
+| 2026-10-03 20:35:55 | [Windows Vista Aero 2007](https://addons.mozilla.org/firefox/addon/windows-vista-aero-2007) | 1.0.1 | 0 | John | Deep glass title bars, ribbons of aurora light and pale-blue Aero highlights: W… |
 
 ## Data source
 
