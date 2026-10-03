@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 12:21 UTC
+## Latest list — 2026-10-03 05:20 UTC
 
-New add-ons created between 2026-10-02 11:21 UTC and 2026-10-02 12:21 UTC.
+New add-ons created between 2026-10-03 04:19 UTC and 2026-10-03 05:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-02T12-21-49-344486Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-03T05-20-57-64255Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-02 11:31:32 | [tomodachi freb jump](https://addons.mozilla.org/firefox/addon/tomodachifrebjump) | 1.0 | 0 | freddie !! ☆ | my likeness in tomodachi life form; very joyous. |
+| 2026-10-03 04:55:22 | [THE Perfect Blue](https://addons.mozilla.org/firefox/addon/the-perfect-blue) | 1.0 | 0 | Gemron | There isn't a better blue theme on all of firefox. (warning: it really is that… |
 
 ## Data source
 
