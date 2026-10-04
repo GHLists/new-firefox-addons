@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 01:20 UTC
+## Latest list — 2026-10-04 23:19 UTC
 
-New add-ons created between 2026-10-04 00:19 UTC and 2026-10-04 01:20 UTC.
+New add-ons created between 2026-10-04 22:20 UTC and 2026-10-04 23:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-04T01-20-54-725667Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-04T23-19-32-417997Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-04 00:20:13 | [Windows Live Metalwork](https://addons.mozilla.org/firefox/addon/windows-live-metalwork) | 1.0 | 0 | Bruno Diaz | Windows Live Messenger 2009 theme |
-| 2026-10-04 00:41:25 | [Dark roses 2](https://addons.mozilla.org/firefox/addon/dark-roses-2) | 1.0 | 0 | zemmy | Gives a nice colorscheme with roses |
+| 2026-10-04 22:44:26 | [Wheat Dusk](https://addons.mozilla.org/firefox/addon/wheat-dusk) | 2.0 | 0 | Luis jenni | Wheat against the last bit of sun. |
 
 ## Data source
 
