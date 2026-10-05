@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 23:19 UTC
+## Latest list — 2026-10-05 05:20 UTC
 
-New add-ons created between 2026-10-04 22:20 UTC and 2026-10-04 23:19 UTC.
+New add-ons created between 2026-10-05 04:21 UTC and 2026-10-05 05:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-04T23-19-32-417997Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-05T05-20-00-815475Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-04 22:44:26 | [Wheat Dusk](https://addons.mozilla.org/firefox/addon/wheat-dusk) | 2.0 | 0 | Luis jenni | Wheat against the last bit of sun. |
+| 2026-10-05 04:46:33 | [Pleasant Dark](https://addons.mozilla.org/firefox/addon/pleasant-dark) | 1.0 | 0 | Colin | Dark theme medium contrast. |
 
 ## Data source
 
