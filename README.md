@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:19 UTC
+## Latest list — 2026-10-09 02:20 UTC
 
-New add-ons created between 2026-10-07 23:19 UTC and 2026-10-08 00:19 UTC.
+New add-ons created between 2026-10-09 01:21 UTC and 2026-10-09 02:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-08T00-19-37-630869Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-09T02-20-06-759028Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-07 23:20:13 | [Rien Limbus Company](https://addons.mozilla.org/firefox/addon/rien-limbus-company) | 1.0 | 0 | Lucid | I hear the waves..... They sound... lonely... |
+| 2026-10-09 01:44:37 | [Pink moonlight](https://addons.mozilla.org/firefox/addon/pink-moonlight) | 1.0 | 0 | Maria | Cozy pixel art night scene with glowing pink sky. |
+| 2026-10-09 01:48:32 | [Turkey Flag](https://addons.mozilla.org/firefox/addon/turkey-flag) | 1.0.0 | 0 | hamit cagdas ince | Türk bayrağından esinlenen koyu Firefox teması: bayrak kırmızısı sekme şeridi,… |
 
 ## Data source
 
