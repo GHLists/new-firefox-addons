@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:20 UTC
+## Latest list — 2026-10-09 19:19 UTC
 
-New add-ons created between 2026-10-09 01:21 UTC and 2026-10-09 02:20 UTC.
+New add-ons created between 2026-10-09 18:18 UTC and 2026-10-09 19:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-09T02-20-06-759028Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-09T19-19-22-816488Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-09 01:44:37 | [Pink moonlight](https://addons.mozilla.org/firefox/addon/pink-moonlight) | 1.0 | 0 | Maria | Cozy pixel art night scene with glowing pink sky. |
-| 2026-10-09 01:48:32 | [Turkey Flag](https://addons.mozilla.org/firefox/addon/turkey-flag) | 1.0.0 | 0 | hamit cagdas ince | Türk bayrağından esinlenen koyu Firefox teması: bayrak kırmızısı sekme şeridi,… |
+| 2026-10-09 18:35:45 | [Chess Light by M♥Donna](https://addons.mozilla.org/firefox/addon/chess-light-by-m-donna) | 1.0 | 0 | MaDonna | A version of my chess theme but in black and white. Easy to read tabs |
 
 ## Data source
 
