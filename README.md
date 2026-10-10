@@ -9,21 +9,18 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:20 UTC
+## Latest list — 2026-10-10 16:19 UTC
 
-New add-ons created between 2026-10-09 21:21 UTC and 2026-10-09 22:20 UTC.
+New add-ons created between 2026-10-10 15:20 UTC and 2026-10-10 16:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-09T22-20-36-859754Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-10T16-19-22-975243Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-09 21:31:36 | [Soft Dark](https://addons.mozilla.org/firefox/addon/softly-dark-bluish-purple) | 1.0 | 0 | logjam | Soft dark purple instead of black and light blues instead of white text |
-| 2026-10-09 21:37:16 | [uncg-msia-mono](https://addons.mozilla.org/firefox/addon/uncg-msia-mono) | 1.0.1 | 0 | nate | Black-and-white UNC Greensboro Informatics &amp; Analytics chrome. One ink colo… |
-| 2026-10-09 21:39:28 | [uncg-msia-color](https://addons.mozilla.org/firefox/addon/uncg-msia-color) | 1.0.1 | 0 | nate | UNC Greensboro navy, gold, and grey for the browser chrome. Pairs with the Info… |
-| 2026-10-09 21:40:19 | [unicorn-mane](https://addons.mozilla.org/firefox/addon/unicorn-mane) | 1.0.0 | 0 | nate | Twilight browser chrome from the VEmacs unicorn palette. Horn-gold marks the se… |
-| 2026-10-09 21:44:04 | [ClearCONtrast](https://addons.mozilla.org/firefox/addon/clearcontrast) | 1.0 | 0 | kolorfol | Just Black on White |
-| 2026-10-09 21:45:16 | [Midnight Mulberry](https://addons.mozilla.org/firefox/addon/midnight-mulberry) | 1.0 | 0 | Richcroft | A deep plum theme with muted mauve accents. |
-| 2026-10-09 21:56:00 | [Private Purple](https://addons.mozilla.org/firefox/addon/private-purple-nova) | 1.0 | 0 | Hardlight | Private Windows theme from Nova redesign |
+| 2026-10-10 15:29:03 | [Countryside Landscape](https://addons.mozilla.org/firefox/addon/countryside-landscape) | 1.0 | 0 | raven | Countryside Landscape Autumn |
+| 2026-10-10 15:38:00 | [Grim and Kitties](https://addons.mozilla.org/firefox/addon/grim-and-kitties) | 1.0 | 0 | Fyreheart | This sweet chibi skeleton plays with ghostly cats in the cute Halloween theme.… |
+| 2026-10-10 15:53:01 | [Pawssessed Pumpkin](https://addons.mozilla.org/firefox/addon/pawssessed-pumpkin) | 1.0 | 0 | Fyreheart | Ghostly kitty cats haunt this glowing jack-o-lantern in this cute Halloween the… |
+| 2026-10-10 16:02:19 | [Purranormal Pals](https://addons.mozilla.org/firefox/addon/purranormal-pals) | 1.0 | 0 | Fyreheart | Ghostly and skeletal kitty cats play together in this adorably spooky Halloween… |
 
 ## Data source
 
