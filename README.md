@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 16:22 UTC
+## Latest list — 2026-10-17 21:20 UTC
 
-New add-ons created between 2026-10-17 15:19 UTC and 2026-10-17 16:22 UTC.
+New add-ons created between 2026-10-17 20:21 UTC and 2026-10-17 21:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-17T16-22-04-077626Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-17T21-20-17-134458Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-17 15:30:29 | [ASTHETIC](https://addons.mozilla.org/firefox/addon/asthetic) | 1.0 | 0 | Anon | it is random characters doing random shhyt |
-| 2026-10-17 15:30:47 | [Foxie Fall Fun by M♥Donna](https://addons.mozilla.org/firefox/addon/foxie-fall-fun-by-m-donna) | 1.0 | 0 | MaDonna | Our cute little fox playing by a creek on a bright fall morning. |
+| 2026-10-17 20:29:01 | [Faded Midnight Blue](https://addons.mozilla.org/firefox/addon/faded-midnight-blue) | 1.0 | 0 | pipenza | A gray-ish blue night theme |
 
 ## Data source
 
