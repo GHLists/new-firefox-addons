@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-17 16:22 UTC
 
-New add-ons created between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
+New add-ons created between 2026-10-17 15:19 UTC and 2026-10-17 16:22 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-16T01-20-46-56222Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-17T16-22-04-077626Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-16 00:27:46 | [Dark Forest SEQTA+](https://addons.mozilla.org/firefox/addon/dark-forest-seqta) | 1.0 | 0 | Louis | A dark theme that matches well with the forest theme of Seqta+ |
+| 2026-10-17 15:30:29 | [ASTHETIC](https://addons.mozilla.org/firefox/addon/asthetic) | 1.0 | 0 | Anon | it is random characters doing random shhyt |
+| 2026-10-17 15:30:47 | [Foxie Fall Fun by M♥Donna](https://addons.mozilla.org/firefox/addon/foxie-fall-fun-by-m-donna) | 1.0 | 0 | MaDonna | Our cute little fox playing by a creek on a bright fall morning. |
 
 ## Data source
 
