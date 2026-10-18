@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:20 UTC
+## Latest list — 2026-10-18 01:21 UTC
 
-New add-ons created between 2026-10-17 20:21 UTC and 2026-10-17 21:20 UTC.
+New add-ons created between 2026-10-18 00:21 UTC and 2026-10-18 01:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-17T21-20-17-134458Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-18T01-21-29-898919Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-17 20:29:01 | [Faded Midnight Blue](https://addons.mozilla.org/firefox/addon/faded-midnight-blue) | 1.0 | 0 | pipenza | A gray-ish blue night theme |
+| 2026-10-18 00:40:50 | [Dark Theme - Black&White](https://addons.mozilla.org/firefox/addon/dark-theme-blackandwhite) | 1.0 | 0 | toarugema | English(Translated using DeepL) This is a dark theme for Firefox. The backgroun… |
 
 ## Data source
 
