@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:21 UTC
+## Latest list — 2026-10-18 04:21 UTC
 
-New add-ons created between 2026-10-18 00:21 UTC and 2026-10-18 01:21 UTC.
+New add-ons created between 2026-10-18 03:21 UTC and 2026-10-18 04:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-18T01-21-29-898919Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-18T04-21-49-419038Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-18 00:40:50 | [Dark Theme - Black&White](https://addons.mozilla.org/firefox/addon/dark-theme-blackandwhite) | 1.0 | 0 | toarugema | English(Translated using DeepL) This is a dark theme for Firefox. The backgroun… |
+| 2026-10-18 03:31:32 | [deathnote black](https://addons.mozilla.org/firefox/addon/deathnote-black) | 1.0 | 0 | J707 | THE GUY DIDNT HAVE A BLACK ONE SO I MADE IT |
 
 ## Data source
 
