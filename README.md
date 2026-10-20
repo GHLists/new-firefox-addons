@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 04:21 UTC
+## Latest list — 2026-10-20 07:19 UTC
 
-New add-ons created between 2026-10-18 03:21 UTC and 2026-10-18 04:21 UTC.
+New add-ons created between 2026-10-20 06:19 UTC and 2026-10-20 07:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-18T04-21-49-419038Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-20T07-19-55-636647Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-18 03:31:32 | [deathnote black](https://addons.mozilla.org/firefox/addon/deathnote-black) | 1.0 | 0 | J707 | THE GUY DIDNT HAVE A BLACK ONE SO I MADE IT |
+| 2026-10-20 06:22:08 | [Tortiecore](https://addons.mozilla.org/firefox/addon/tortiecore) | 1.0 | 0 | opal kitten | Tortiecore is a dark, cozy Firefox theme inspired by classic tortoiseshell patt… |
+| 2026-10-20 06:29:07 | [Still in love static](https://addons.mozilla.org/firefox/addon/still-in-love-static) | 1.0 | 0 | Winston | A continuation of the previous theme because it wasnt filling the entire tab |
 
 ## Data source
 
