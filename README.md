@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 07:19 UTC
+## Latest list — 2026-10-21 01:19 UTC
 
-New add-ons created between 2026-10-20 06:19 UTC and 2026-10-20 07:19 UTC.
+New add-ons created between 2026-10-21 00:20 UTC and 2026-10-21 01:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-20T07-19-55-636647Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-21T01-19-55-688022Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-20 06:22:08 | [Tortiecore](https://addons.mozilla.org/firefox/addon/tortiecore) | 1.0 | 0 | opal kitten | Tortiecore is a dark, cozy Firefox theme inspired by classic tortoiseshell patt… |
-| 2026-10-20 06:29:07 | [Still in love static](https://addons.mozilla.org/firefox/addon/still-in-love-static) | 1.0 | 0 | Winston | A continuation of the previous theme because it wasnt filling the entire tab |
+| 2026-10-21 01:16:01 | [Moon Halloween Theme](https://addons.mozilla.org/firefox/addon/moon-halloween-theme) | 1.0 | 0 | ne0187 | Moon Halloween Theme A spooky Halloween Firefox theme featuring a haunted moonl… |
 
 ## Data source
 
