@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 03:21 UTC
+## Latest list — 2026-10-23 21:20 UTC
 
-New add-ons created between 2026-10-23 02:20 UTC and 2026-10-23 03:21 UTC.
+New add-ons created between 2026-10-23 20:19 UTC and 2026-10-23 21:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-23T03-21-07-362487Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-23T21-20-12-159051Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-23 02:28:08 | [Grid Genie Dark](https://addons.mozilla.org/firefox/addon/grid-genie-dark) | 1.0.0 | 0 | broccolihero13 | Deep slate dark theme with vibrant teal (#14b8a6) and sky blue (#38bdf8) accent… |
+| 2026-10-23 20:40:29 | [Leopard Kisses](https://addons.mozilla.org/firefox/addon/leopard-kisses) | 1.0 | 0 | opal kitten | Leopard Kisses is a cute, feminine Firefox theme inspired by soft pink leopard… |
+| 2026-10-23 20:56:56 | [Frosted Kitty](https://addons.mozilla.org/firefox/addon/frosted-kitty) | 1.0 | 0 | opal kitten | Frosted Kitty is a dreamy Firefox theme featuring soft baby-blue leopard print,… |
 
 ## Data source
 
