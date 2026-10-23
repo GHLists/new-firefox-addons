@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 00:21 UTC
+## Latest list — 2026-10-23 03:21 UTC
 
-New add-ons created between 2026-10-21 23:21 UTC and 2026-10-22 00:21 UTC.
+New add-ons created between 2026-10-23 02:20 UTC and 2026-10-23 03:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-22T00-21-27-590354Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-23T03-21-07-362487Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-21 23:30:06 | [TRJ Blade Rose Quartz](https://addons.mozilla.org/firefox/addon/trj-blade-rose-quartz) | 1.0.0 | 0 | TRJ | TRJ Blade Rose Quartz: original crystal artwork and an elegant matching browser… |
-| 2026-10-21 23:31:13 | [TRJ Blade Moonlit Orchid](https://addons.mozilla.org/firefox/addon/trj-blade-moonlit-orchid) | 1.0.0 | 0 | TRJ | TRJ Blade Moonlit Orchid: original crystal artwork and an elegant matching brow… |
+| 2026-10-23 02:28:08 | [Grid Genie Dark](https://addons.mozilla.org/firefox/addon/grid-genie-dark) | 1.0.0 | 0 | broccolihero13 | Deep slate dark theme with vibrant teal (#14b8a6) and sky blue (#38bdf8) accent… |
 
 ## Data source
 
