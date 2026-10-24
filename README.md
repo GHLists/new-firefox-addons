@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 21:19 UTC
+## Latest list — 2026-10-24 22:21 UTC
 
-New add-ons created between 2026-10-24 20:19 UTC and 2026-10-24 21:19 UTC.
+New add-ons created between 2026-10-24 21:19 UTC and 2026-10-24 22:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-24T21-19-10-337732Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-24T22-21-58-169712Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-24 20:38:44 | [Zenmap Blue](https://addons.mozilla.org/firefox/addon/zenmap-blue) | 1.0 | 0 | Alexander | Calm and minimalistic ocean-blue theme without distractions. |
+| 2026-10-24 21:37:21 | [macOS System Blue](https://addons.mozilla.org/firefox/addon/macos-system-blue) | 1.0 | 0 | xymati | A dark, macOS 27 (Golden Gate) inspired theme: graphite surfaces, refined Liqui… |
+| 2026-10-24 21:39:15 | [macOS Violet](https://addons.mozilla.org/firefox/addon/macos-violet) | 1.1 | 0 | xymati | A dark, macOS 27 (Golden Gate) inspired theme: graphite surfaces, refined Liqui… |
 
 ## Data source
 
