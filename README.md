@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 21:20 UTC
+## Latest list — 2026-10-24 21:19 UTC
 
-New add-ons created between 2026-10-23 20:19 UTC and 2026-10-23 21:20 UTC.
+New add-ons created between 2026-10-24 20:19 UTC and 2026-10-24 21:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-23T21-20-12-159051Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-24T21-19-10-337732Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-23 20:40:29 | [Leopard Kisses](https://addons.mozilla.org/firefox/addon/leopard-kisses) | 1.0 | 0 | opal kitten | Leopard Kisses is a cute, feminine Firefox theme inspired by soft pink leopard… |
-| 2026-10-23 20:56:56 | [Frosted Kitty](https://addons.mozilla.org/firefox/addon/frosted-kitty) | 1.0 | 0 | opal kitten | Frosted Kitty is a dreamy Firefox theme featuring soft baby-blue leopard print,… |
+| 2026-10-24 20:38:44 | [Zenmap Blue](https://addons.mozilla.org/firefox/addon/zenmap-blue) | 1.0 | 0 | Alexander | Calm and minimalistic ocean-blue theme without distractions. |
 
 ## Data source
 
