@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 00:21 UTC
+## Latest list — 2026-10-30 14:22 UTC
 
-New add-ons created between 2026-10-29 23:20 UTC and 2026-10-30 00:21 UTC.
+New add-ons created between 2026-10-30 13:19 UTC and 2026-10-30 14:22 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-30T00-21-08-752515Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-30T14-22-26-956023Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-29 23:31:38 | [Simple Dark](https://addons.mozilla.org/firefox/addon/simple-dark-kartax) | 1.0 | 0 | kartax | Simple Dark Theme that follow google material design color scheme |
+| 2026-10-30 13:29:31 | [blóm besta](https://addons.mozilla.org/firefox/addon/bl%C3%B3m-besta) | 1.0 | 0 | Birta | theme |
 
 ## Data source
 
