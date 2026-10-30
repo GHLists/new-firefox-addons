@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 01:19 UTC
+## Latest list — 2026-10-30 00:21 UTC
 
-New add-ons created between 2026-10-29 00:19 UTC and 2026-10-29 01:19 UTC.
+New add-ons created between 2026-10-29 23:20 UTC and 2026-10-30 00:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-29T01-19-00-619963Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-30T00-21-08-752515Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-29 00:19:52 | [The Silver Surfer](https://addons.mozilla.org/firefox/addon/the-silver-surfer) | 1.0 | 0 | Hector_5B | Most people cant really find a black or white theme to match with their live wa… |
+| 2026-10-29 23:31:38 | [Simple Dark](https://addons.mozilla.org/firefox/addon/simple-dark-kartax) | 1.0 | 0 | kartax | Simple Dark Theme that follow google material design color scheme |
 
 ## Data source
 
