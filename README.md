@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 06:20 UTC
+## Latest list — 2026-10-31 16:20 UTC
 
-New add-ons created between 2026-10-31 05:18 UTC and 2026-10-31 06:20 UTC.
+New add-ons created between 2026-10-31 15:20 UTC and 2026-10-31 16:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-31T06-20-58-45831Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-31T16-20-09-24108Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-31 05:22:07 | [Tipo Kanagawa](https://addons.mozilla.org/firefox/addon/tipo-kanagawa) | 1.0 | 0 | pedroMoleton | Inspired Kanagawa pallet theme |
-| 2026-10-31 05:34:20 | [Obsidian Silver](https://addons.mozilla.org/firefox/addon/obsidian-silver) | 1.0.1 | 0 | INTE5HAR | A near-black Firefox theme with light gray text and silver accents. |
+| 2026-10-31 15:28:39 | [Light Mint 1962](https://addons.mozilla.org/firefox/addon/light-mint-1962) | 1.2 | 0 | Simple Dude | Helle Mint- und Pastellgrüntöne mit gut lesbarer Schrift |
 
 ## Data source
 
