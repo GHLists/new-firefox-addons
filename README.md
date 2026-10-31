@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 14:22 UTC
+## Latest list — 2026-10-31 00:20 UTC
 
-New add-ons created between 2026-10-30 13:19 UTC and 2026-10-30 14:22 UTC.
+New add-ons created between 2026-10-30 23:21 UTC and 2026-10-31 00:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-30T14-22-26-956023Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-31T00-20-27-948725Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-30 13:29:31 | [blóm besta](https://addons.mozilla.org/firefox/addon/bl%C3%B3m-besta) | 1.0 | 0 | Birta | theme |
+| 2026-10-30 23:22:09 | [Hulk waqllll](https://addons.mozilla.org/firefox/addon/hulk-waqllll) | 1.0 | 0 | Byrxe | hulk |
 
 ## Data source
 
