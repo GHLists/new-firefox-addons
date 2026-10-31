@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:20 UTC
+## Latest list — 2026-10-31 06:20 UTC
 
-New add-ons created between 2026-10-30 23:21 UTC and 2026-10-31 00:20 UTC.
+New add-ons created between 2026-10-31 05:18 UTC and 2026-10-31 06:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-31T00-20-27-948725Z.csv)
+[Full CSV](data/new-firefox-addons-2026-10-31T06-20-58-45831Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-30 23:22:09 | [Hulk waqllll](https://addons.mozilla.org/firefox/addon/hulk-waqllll) | 1.0 | 0 | Byrxe | hulk |
+| 2026-10-31 05:22:07 | [Tipo Kanagawa](https://addons.mozilla.org/firefox/addon/tipo-kanagawa) | 1.0 | 0 | pedroMoleton | Inspired Kanagawa pallet theme |
+| 2026-10-31 05:34:20 | [Obsidian Silver](https://addons.mozilla.org/firefox/addon/obsidian-silver) | 1.0.1 | 0 | INTE5HAR | A near-black Firefox theme with light gray text and silver accents. |
 
 ## Data source
 

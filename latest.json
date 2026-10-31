@@ -1,10 +1,10 @@
 {
   "list": {
-    "count": 1,
-    "from": "2026-10-30T23:21:35.88422Z",
-    "path": "data/new-firefox-addons-2026-10-31T00-20-27-948725Z.csv",
-    "to": "2026-10-31T00:20:27.948725Z"
+    "count": 2,
+    "from": "2026-10-31T05:18:28.276373Z",
+    "path": "data/new-firefox-addons-2026-10-31T06-20-58-45831Z.csv",
+    "to": "2026-10-31T06:20:58.45831Z"
   },
   "source_truncated": false,
-  "window": "2026-10-31T05:18:28.276373Z"
+  "window": "2026-10-31T06:20:58.45831Z"
 }
