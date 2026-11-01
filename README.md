@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:20 UTC
+## Latest list — 2026-11-01 17:19 UTC
 
-New add-ons created between 2026-10-31 15:20 UTC and 2026-10-31 16:20 UTC.
+New add-ons created between 2026-11-01 16:20 UTC and 2026-11-01 17:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-10-31T16-20-09-24108Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-01T17-19-54-269377Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-10-31 15:28:39 | [Light Mint 1962](https://addons.mozilla.org/firefox/addon/light-mint-1962) | 1.2 | 0 | Simple Dude | Helle Mint- und Pastellgrüntöne mit gut lesbarer Schrift |
+| 2026-11-01 16:58:23 | [Cattpuccin Mocha theme](https://addons.mozilla.org/firefox/addon/cattpuccin-mocha-theme) | 1.0 | 0 | Birb | I made this theme because i found the other uploaded one to not fit my desktop… |
 
 ## Data source
 
