@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 17:19 UTC
+## Latest list — 2026-11-02 23:18 UTC
 
-New add-ons created between 2026-11-01 16:20 UTC and 2026-11-01 17:19 UTC.
+New add-ons created between 2026-11-02 22:21 UTC and 2026-11-02 23:18 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-01T17-19-54-269377Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-02T23-18-57-452332Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-01 16:58:23 | [Cattpuccin Mocha theme](https://addons.mozilla.org/firefox/addon/cattpuccin-mocha-theme) | 1.0 | 0 | Birb | I made this theme because i found the other uploaded one to not fit my desktop… |
+| 2026-11-02 22:52:45 | [kashimo black background](https://addons.mozilla.org/firefox/addon/kashimo-black-background) | 1.0 | 0 | totallynotbatman | kashimo theme |
 
 ## Data source
 
