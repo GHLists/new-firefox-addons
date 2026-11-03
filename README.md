@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 23:18 UTC
+## Latest list — 2026-11-03 09:22 UTC
 
-New add-ons created between 2026-11-02 22:21 UTC and 2026-11-02 23:18 UTC.
+New add-ons created between 2026-11-03 08:22 UTC and 2026-11-03 09:22 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-02T23-18-57-452332Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-03T09-22-01-106437Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-02 22:52:45 | [kashimo black background](https://addons.mozilla.org/firefox/addon/kashimo-black-background) | 1.0 | 0 | totallynotbatman | kashimo theme |
+| 2026-11-03 08:24:45 | [Update UI Test - DO NOT INSTALL](https://addons.mozilla.org/firefox/addon/update-ui-test-do-not-install) | 0.0.2 | 0 | Alex_CSV | Minimal extension used strictly for testing the update UI and permission prompt… |
 
 ## Data source
 

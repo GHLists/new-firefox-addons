@@ -1,0 +1,2 @@
+created_at,addon,slug,version,users,authors,description
+2026-11-03T08:24:45Z,Update UI Test - DO NOT INSTALL,update-ui-test-do-not-install,0.0.2,0,Alex_CSV,Minimal extension used strictly for testing the update UI and permission prompt flow in Firefox for Android.
