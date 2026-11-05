@@ -26,6 +26,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          # Fetch the branch tip at job start instead of the commit pinned when
+          # the run was queued, so a delayed run never builds on a stale base.
+          ref: ${{ github.ref }}
           fetch-depth: 1
           filter: blob:none
           sparse-checkout: |
