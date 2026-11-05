@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:22 UTC
+## Latest list — 2026-11-05 00:20 UTC
 
-New add-ons created between 2026-11-03 08:22 UTC and 2026-11-03 09:22 UTC.
+New add-ons created between 2026-11-04 23:21 UTC and 2026-11-05 00:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-03T09-22-01-106437Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-05T00-20-42-764308Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-03 08:24:45 | [Update UI Test - DO NOT INSTALL](https://addons.mozilla.org/firefox/addon/update-ui-test-do-not-install) | 0.0.2 | 0 | Alex_CSV | Minimal extension used strictly for testing the update UI and permission prompt… |
+| 2026-11-04 23:21:57 | [spider-man Miles Morales](https://addons.mozilla.org/firefox/addon/spider-man-miles-morales-yo) | 1.0 | 0 | tummeltje8 | spider-man Miles Morales |
+| 2026-11-04 23:23:25 | [Mitsuri Kanroji demon slayer](https://addons.mozilla.org/firefox/addon/mitsuri-kanroji-demon-slayer) | 1.0 | 0 | tummeltje8 | Mitsuri Kanroji from demon slayer |
 
 ## Data source
 
