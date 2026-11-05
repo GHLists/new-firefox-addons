@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:20 UTC
+## Latest list — 2026-11-05 22:19 UTC
 
-New add-ons created between 2026-11-04 23:21 UTC and 2026-11-05 00:20 UTC.
+New add-ons created between 2026-11-05 21:20 UTC and 2026-11-05 22:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-05T00-20-42-764308Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-05T22-19-18-709917Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-04 23:21:57 | [spider-man Miles Morales](https://addons.mozilla.org/firefox/addon/spider-man-miles-morales-yo) | 1.0 | 0 | tummeltje8 | spider-man Miles Morales |
-| 2026-11-04 23:23:25 | [Mitsuri Kanroji demon slayer](https://addons.mozilla.org/firefox/addon/mitsuri-kanroji-demon-slayer) | 1.0 | 0 | tummeltje8 | Mitsuri Kanroji from demon slayer |
+| 2026-11-05 21:40:27 | [Glitter of Gold by M♥Donna](https://addons.mozilla.org/firefox/addon/glitter-of-gold-by-m-donna) | 1.0 | 0 | MaDonna | Golden flakes...we hope it is real gold!!! |
 
 ## Data source
 
