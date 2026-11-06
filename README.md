@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 22:19 UTC
+## Latest list — 2026-11-06 03:21 UTC
 
-New add-ons created between 2026-11-05 21:20 UTC and 2026-11-05 22:19 UTC.
+New add-ons created between 2026-11-06 02:21 UTC and 2026-11-06 03:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-05T22-19-18-709917Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-06T03-21-10-771749Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-05 21:40:27 | [Glitter of Gold by M♥Donna](https://addons.mozilla.org/firefox/addon/glitter-of-gold-by-m-donna) | 1.0 | 0 | MaDonna | Golden flakes...we hope it is real gold!!! |
+| 2026-11-06 02:28:21 | [lilith shuumatsu](https://addons.mozilla.org/firefox/addon/lilith-shuumatsu) | 1.0 | 0 | lilidaemoni | tema lilith shuumatsu firefox |
 
 ## Data source
 
