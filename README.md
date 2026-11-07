@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:21 UTC
+## Latest list — 2026-11-07 04:21 UTC
 
-New add-ons created between 2026-11-06 02:21 UTC and 2026-11-06 03:21 UTC.
+New add-ons created between 2026-11-07 03:21 UTC and 2026-11-07 04:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-06T03-21-10-771749Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-07T04-21-56-792137Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-06 02:28:21 | [lilith shuumatsu](https://addons.mozilla.org/firefox/addon/lilith-shuumatsu) | 1.0 | 0 | lilidaemoni | tema lilith shuumatsu firefox |
+| 2026-11-07 03:35:08 | [棕橙紫](https://addons.mozilla.org/firefox/addon/zongchengzi) | 1.0 | 0 | liheng | 一个适用于Firefox的浅色主题，可能并不在所有情况下具有较高对比度 |
 
 ## Data source
 
