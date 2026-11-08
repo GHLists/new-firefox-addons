@@ -9,15 +9,17 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 18:20 UTC
+## Latest list — 2026-11-08 00:20 UTC
 
-New add-ons created between 2026-11-07 17:20 UTC and 2026-11-07 18:20 UTC.
+New add-ons created between 2026-11-07 23:21 UTC and 2026-11-08 00:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-07T18-20-20-510692Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-08T00-20-51-07513Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-07 17:49:18 | [Modus Vivendi (AAA)](https://addons.mozilla.org/firefox/addon/modus-vivendi-aaa) | 1.0 | 0 | drd | Modus Vivendi palette; text contrast &gt;= 7:1 (WCAG AAA). |
+| 2026-11-07 23:49:48 | [Ocean Animated · Hoome](https://addons.mozilla.org/firefox/addon/ocean-animated-hoome) | 1.0.0 | 0 | pedro dev | Ocean: the whole top of Firefox in motion, in a gentle loop. The same backgroun… |
+| 2026-11-07 23:52:58 | [Raw Denim · Hoome](https://addons.mozilla.org/firefox/addon/raw-denim-hoome) | 1.0.0 | 0 | pedro dev | Tightly woven raw indigo denim for your browser frame. Its animated version liv… |
+| 2026-11-07 23:54:08 | [Raw Denim Animated · Hoome](https://addons.mozilla.org/firefox/addon/raw-denim-animated-hoome) | 1.0.0 | 0 | pedro dev | Raw Denim: the whole top of Firefox in motion, in a gentle loop. The same backg… |
 
 ## Data source
 
