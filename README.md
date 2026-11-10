@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:21 UTC
+## Latest list — 2026-11-10 00:21 UTC
 
-New add-ons created between 2026-11-08 16:19 UTC and 2026-11-08 17:21 UTC.
+New add-ons created between 2026-11-09 23:20 UTC and 2026-11-10 00:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-08T17-21-01-831934Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-10T00-21-11-028495Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-08 16:23:53 | [topogrpahy 1](https://addons.mozilla.org/firefox/addon/topogrpahy-1) | 1.0 | 0 | uzemborg | s |
-| 2026-11-08 16:49:31 | [Deep Space by M♥Donna](https://addons.mozilla.org/firefox/addon/deep-spaby-m-donna) | 1.0 | 0 | MaDonna | space |
+| 2026-11-09 23:54:56 | [Chrome Blue Midnight](https://addons.mozilla.org/firefox/addon/chrome-blue-midnight) | 1.0.0 | 0 | rjegonz | A clean, solid-black tab strip paired with polished steel-blue Firefox toolbars… |
 
 ## Data source
 
