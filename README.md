@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:21 UTC
+## Latest list — 2026-11-13 02:19 UTC
 
-New add-ons created between 2026-11-12 14:20 UTC and 2026-11-12 15:21 UTC.
+New add-ons created between 2026-11-13 01:21 UTC and 2026-11-13 02:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-12T15-21-59-203503Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-13T02-19-34-368814Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-12 14:44:03 | [Chihuahua](https://addons.mozilla.org/firefox/addon/animierter-chihuahua) | 1.0 | 0 | Wuffi | Theme Dog |
+| 2026-11-13 02:01:17 | [DreamCatcher by M♥Donna](https://addons.mozilla.org/firefox/addon/dreamcatcher-by-m-donna) | 1.0 | 0 | MaDonna | My great grand daughter loves dreamcatchers as much as I do, so this is for her… |
 
 ## Data source
 
