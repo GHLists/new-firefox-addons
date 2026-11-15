@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:20 UTC
+## Latest list — 2026-11-15 20:22 UTC
 
-New add-ons created between 2026-11-15 02:20 UTC and 2026-11-15 03:20 UTC.
+New add-ons created between 2026-11-15 19:19 UTC and 2026-11-15 20:22 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-15T03-20-56-239824Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-15T20-22-15-20401Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-15 02:44:19 | [bunnay](https://addons.mozilla.org/firefox/addon/bunnay) | 1.0 | 0 | Dana | personal, for me |
+| 2026-11-15 19:24:10 | [no4](https://addons.mozilla.org/firefox/addon/no4) | 1.0 | 0 | tommynos | my first mozilla add on hope yu enjoy |
 
 ## Data source
 
