@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 03:19 UTC
+## Latest list — 2026-11-18 06:21 UTC
 
-New add-ons created between 2026-11-17 02:19 UTC and 2026-11-17 03:19 UTC.
+New add-ons created between 2026-11-18 05:21 UTC and 2026-11-18 06:21 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-17T03-19-27-278658Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-18T06-21-28-45261Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-17 02:21:13 | [Space Animation](https://addons.mozilla.org/firefox/addon/space_dream) | 2.3 | 0 | hassanoof | A soft beige-rose theme with a gently animated night sky: slowly rising stars,… |
+| 2026-11-18 05:39:13 | [beauty-of-nature-theme](https://addons.mozilla.org/firefox/addon/beauty-of-nature-theme) | 1.0 | 0 | Md.Nirob | Transform your browser into a beautiful natural paradise with stunning cinemati… |
 
 ## Data source
 
