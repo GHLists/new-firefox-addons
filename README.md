@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:21 UTC
+## Latest list — 2026-11-18 22:20 UTC
 
-New add-ons created between 2026-11-18 05:21 UTC and 2026-11-18 06:21 UTC.
+New add-ons created between 2026-11-18 21:22 UTC and 2026-11-18 22:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-18T06-21-28-45261Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-18T22-20-22-51359Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-18 05:39:13 | [beauty-of-nature-theme](https://addons.mozilla.org/firefox/addon/beauty-of-nature-theme) | 1.0 | 0 | Md.Nirob | Transform your browser into a beautiful natural paradise with stunning cinemati… |
+| 2026-11-18 21:53:04 | [Gray Wolf by M♥Donna](https://addons.mozilla.org/firefox/addon/gray-wolf-bdonna) | 1.0 | 0 | MaDonna | Just another wolf by me. Sorry but they fascinate me! |
 
 ## Data source
 
