@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:22 UTC
+## Latest list — 2026-11-21 16:19 UTC
 
-New add-ons created between 2026-11-19 14:21 UTC and 2026-11-19 15:22 UTC.
+New add-ons created between 2026-11-21 15:20 UTC and 2026-11-21 16:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-19T15-22-13-295637Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-21T16-19-24-66503Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-19 15:05:05 | [Carina Nebula Cosmic Cliffs](https://addons.mozilla.org/firefox/addon/carina-nebula-cosmic-cliffs) | 1.0 | 0 | Lynn | “Cosmic Cliffs” in the Carina Nebula |
+| 2026-11-21 15:34:59 | [Golden Flame Fox](https://addons.mozilla.org/firefox/addon/golden-flame-fox) | 1.0 | 0 | Stefano01 | A vibrant Firefox theme featuring an illustrated fox wrapped in warm gradients… |
+| 2026-11-21 15:36:26 | [Cyberpunk Distopia Simple BG](https://addons.mozilla.org/firefox/addon/cyberpunk-distopia-simple-bg) | 1.0 | 0 | SoapPaiz | Attempt to make an endless rainy cyber distopia |
 
 ## Data source
 
