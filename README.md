@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 06:21 UTC
+## Latest list — 2026-11-23 23:18 UTC
 
-New add-ons created between 2026-11-22 05:21 UTC and 2026-11-22 06:21 UTC.
+New add-ons created between 2026-11-23 22:21 UTC and 2026-11-23 23:18 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-22T06-21-06-749247Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-23T23-18-55-366921Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-22 05:30:53 | [Roxeux Profudex](https://addons.mozilla.org/firefox/addon/roxo-profundo-2027) | 1.0 | 0 | DK | Tema roxo bem escuro para o Firefox. |
+| 2026-11-23 22:26:30 | [Kanamafu aquarium](https://addons.mozilla.org/firefox/addon/kanamafu-aquarium) | 1.0 | 0 | drazazaraza | Kanade and Mafuyu from project sekai colorful stage. Yoisaki Kanade Asahina Maf… |
 
 ## Data source
 
