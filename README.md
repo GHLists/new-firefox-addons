@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 02:20 UTC
+## Latest list — 2026-11-24 23:19 UTC
 
-New add-ons created between 2026-11-24 01:21 UTC and 2026-11-24 02:20 UTC.
+New add-ons created between 2026-11-24 22:19 UTC and 2026-11-24 23:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-24T02-20-40-109912Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-24T23-19-05-341056Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-24 01:23:16 | [Animated OLED Starfield](https://addons.mozilla.org/firefox/addon/animated-oled-starfield) | 1.2 | 0 | Monkey Bonobo | Animated true black background with shooting stars :D |
-| 2026-11-24 01:54:56 | [Minimal/Notion Sky (Light)](https://addons.mozilla.org/firefox/addon/minimal-notion-sky-light) | 1.0 | 0 | skelobones | Basic recolor, based off of Obsidian Minimal theme's Sky palette. Does not incl… |
+| 2026-11-24 22:23:35 | [Latte Cats](https://addons.mozilla.org/firefox/addon/latte-cats) | 1.0 | 0 | Fyreheart | Three kitties play around a cup of creamy coffee. art by Tobe Fonseca |
 
 ## Data source
 
