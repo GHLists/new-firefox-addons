@@ -9,15 +9,16 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 23:18 UTC
+## Latest list — 2026-11-24 02:20 UTC
 
-New add-ons created between 2026-11-23 22:21 UTC and 2026-11-23 23:18 UTC.
+New add-ons created between 2026-11-24 01:21 UTC and 2026-11-24 02:20 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-23T23-18-55-366921Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-24T02-20-40-109912Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-23 22:26:30 | [Kanamafu aquarium](https://addons.mozilla.org/firefox/addon/kanamafu-aquarium) | 1.0 | 0 | drazazaraza | Kanade and Mafuyu from project sekai colorful stage. Yoisaki Kanade Asahina Maf… |
+| 2026-11-24 01:23:16 | [Animated OLED Starfield](https://addons.mozilla.org/firefox/addon/animated-oled-starfield) | 1.2 | 0 | Monkey Bonobo | Animated true black background with shooting stars :D |
+| 2026-11-24 01:54:56 | [Minimal/Notion Sky (Light)](https://addons.mozilla.org/firefox/addon/minimal-notion-sky-light) | 1.0 | 0 | skelobones | Basic recolor, based off of Obsidian Minimal theme's Sky palette. Does not incl… |
 
 ## Data source
 
