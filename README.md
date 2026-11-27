@@ -9,15 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 19:19 UTC
+## Latest list — 2026-11-27 21:19 UTC
 
-New add-ons created between 2026-11-27 18:20 UTC and 2026-11-27 19:19 UTC.
+New add-ons created between 2026-11-27 20:21 UTC and 2026-11-27 21:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-27T19-19-35-411964Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-27T21-19-57-461499Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-27 18:39:12 | [Heroes3 x1](https://addons.mozilla.org/firefox/addon/heroes3-x1) | 1.0 | 0 | Fallout 4 | Heroes3 x1 |
+| 2026-11-27 20:33:59 | [Nova be like](https://addons.mozilla.org/firefox/addon/nova-be-like) | 1.0 | 0 | Shvabra | 01 |
 
 ## Data source
 
