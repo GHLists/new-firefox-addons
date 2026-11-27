@@ -9,16 +9,15 @@ e.g. [`data/new-firefox-addons-<timestamp>.csv`](data/).
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 13:21 UTC
+## Latest list — 2026-11-27 19:19 UTC
 
-New add-ons created between 2026-11-25 12:20 UTC and 2026-11-25 13:21 UTC.
+New add-ons created between 2026-11-27 18:20 UTC and 2026-11-27 19:19 UTC.
 
-[Full CSV](data/new-firefox-addons-2026-11-25T13-21-40-341294Z.csv)
+[Full CSV](data/new-firefox-addons-2026-11-27T19-19-35-411964Z.csv)
 
 | Created (UTC) | Add-on | Version | Users | Authors | Description |
 | :------------ | :----- | :------ | ----: | :------ | :---------- |
-| 2026-11-25 12:28:47 | [A7X Purple ST7T by ketamine](https://addons.mozilla.org/firefox/addon/a7x-purple-st7t-by-ketamine) | 1.0 | 0 | ketamine | its a basic theme |
-| 2026-11-25 12:33:47 | [Transparent](https://addons.mozilla.org/firefox/addon/nyx-transparent-theme) | 1.0 | 0 | _camesin | Transparent base theme for firefox. (0 opacity on most elements) |
+| 2026-11-27 18:39:12 | [Heroes3 x1](https://addons.mozilla.org/firefox/addon/heroes3-x1) | 1.0 | 0 | Fallout 4 | Heroes3 x1 |
 
 ## Data source
 
